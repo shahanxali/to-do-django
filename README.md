@@ -1,6 +1,6 @@
 # to-do-django
 
-##To Do application in django Python
+## To Do application in django Python
 
 This is a to do website designed in python using django framework
 A basic application which includes raw SQL and mainly focused on back-end.
